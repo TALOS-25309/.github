@@ -9,8 +9,10 @@
 <p align="center">
   <h1 align="center">KROS</h1>
   <h3 align="center">🛠️ KSA Robot Research Group 🛠️</h3>
+  <br/>
+  <h5 align="center">. . .</h5>
 </p>
-<!-- markdownlint-enable MD033 -->
+<br/>
 
 ## 🤖 | About Us
 We are the **Robot Research Group** of KSA      
