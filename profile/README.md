@@ -18,7 +18,7 @@ We are the **Robot Research Group** of KSA
 <br>
 
 ## ⚔️ | Our Team Info
-* Team Number : **5073**
+* Team Number : **25309 (KR# : 5073)**
 * Team Name : **TALOS**
 <br>
 
@@ -27,6 +27,6 @@ We are the **Robot Research Group** of KSA
 * 2018-2019 KRC : ROVER RUCKUS
 * 2019-2020 KRC : SKYSTONE
 * 2021-2022 KRC : FREIGHT FRENZY
-* 2022-2023 KRC : POWER PLAY
-* **2023-2024 KRC : CENTERSTAGE**
+* 2022-2023 KRC : POWER PLAY - Connect Award 🥈
+* 2023-2024 KRC : CENTERSTAGE - 1st Inspired Award 🥇🏆
 <br>
