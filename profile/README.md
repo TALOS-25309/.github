@@ -1,4 +1,9 @@
 <p align="center">
+   <!--https://github.com/kyechan99/capsule-render-->
+   <img align = "center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=330&section=header&text=TALOS&fontSize=90&animation=fadeIn&fontAlignY=38&desc=25309" />
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/KSA-KROS/.github/blob/main/Images/Logo_Dark.png">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/KSA-KROS/.github/blob/main/Images/Logo_Light.png">
@@ -20,6 +25,7 @@ We are the **Robot Research Group** of KSA
 ## ⚔️ | Our Team Info
 * Team Number : **25309 (KR# : 5073)**
 * Team Name : **TALOS**
+* FTC Webpage : https://ftc-events.firstinspires.org/team/25309
 <br>
 
 ## 📜 | Record of Participation in FTC (FIRST Tech Challenge)
@@ -30,3 +36,7 @@ We are the **Robot Research Group** of KSA
 * 2022-2023 KRC : POWER PLAY - Connect Award 🥈
 * 2023-2024 KRC : CENTERSTAGE - 1st Inspired Award 🥇🏆
 <br>
+
+## 💸 | Sponsor
+* Korea Science Academy of KAIST
+* Korea Ministry of Science and ICT
