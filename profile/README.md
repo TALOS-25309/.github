@@ -1,6 +1,6 @@
 <p align="center">
    <!--https://github.com/kyechan99/capsule-render-->
-   <img align = "center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=330&section=header&text=TALOS&fontSize=90&animation=fadeIn&fontAlignY=38&desc=25309" />
+   <img align = "center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=330&section=header&text=KROS&fontSize=90&animation=fadeIn&fontAlignY=38&desc=25309" />
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@ We are the **Robot Research Group** of KSA
 
 ## ⚔️ | Our Team Info
 * Team Number : **25309 (KR# : 5073)**
-* Team Name : **TALOS**
+* Team Name : **KROS (Prev : TALOS)**
 * FTC Webpage : https://ftc-events.firstinspires.org/team/25309
 <br>
 
