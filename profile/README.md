@@ -27,6 +27,7 @@ We are the **Robot Research Group** of KSA
 * 2021-2022 KRC : FREIGHT FRENZY - Think Award (EN) 🥈
 * 2022-2023 KRC : POWER PLAY - Connect Award (EN) 🥈
 * 2023-2024 KRC : CENTERSTAGE - 1st Inspire Award (Overall) 🥇🏆
+* 2023-2024 First In Show : CENTERSTAGE
 <br>
 
 ## 💸 | Sponsors
